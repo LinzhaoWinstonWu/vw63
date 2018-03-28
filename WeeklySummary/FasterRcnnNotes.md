@@ -17,7 +17,7 @@
     - *cls loss* is used to train the network of classifying foreground and background anchors.
     - *reg loss* in used to train the bounding box regression
   4. **Training process**.
-    1. train the RPN network with the pre-trained model.
-    2. train the Fast RCNN network with the proposals from last step.
-    3. use Fast RCNN to initialise the mutual convolutional layers.
-    4. repeat the step 1,2,3 till the end.
+    - train the RPN network with the pre-trained model.
+    - train the Fast RCNN network with the proposals from last step.
+    - use Fast RCNN to initialise the mutual convolutional layers.
+    - repeat the step 1,2,3 till the end.
