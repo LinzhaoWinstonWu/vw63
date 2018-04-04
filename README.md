@@ -8,3 +8,5 @@
 - [21th Mar 2018](./WeeklySummary/Mar21.md)
 
 - [28th Mar 2018](./WeeklySummary/Mar28.md) <br> [FasterRcnnNotes](./WeeklySummary/FasterRcnnNotes.md)
+
+- [4th Apr 2018](./WeeklySummary/Apr4.md)
