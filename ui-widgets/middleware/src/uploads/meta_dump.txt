@@ -1,0 +1,2477 @@
+{
+   "clipping-1": {
+      "clickable": "true",
+      "color": "Chinese Black",
+      "content-desc": "Open navigation drawer",
+      "coordinates": {
+         "from": [
+            11,
+            33
+         ],
+         "to": [
+            86,
+            118
+         ]
+      },
+      "dimensions": {
+         "height": 85,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_530",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-10": {
+      "clickable": "true",
+      "color": "Black Olive",
+      "content-desc": "Go back",
+      "coordinates": {
+         "from": [
+            0,
+            108
+         ],
+         "to": [
+            65,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/back",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_317",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-11": {
+      "clickable": "true",
+      "color": "Onyx",
+      "content-desc": "Stop page load",
+      "coordinates": {
+         "from": [
+            130,
+            108
+         ],
+         "to": [
+            195,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/stop",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_17",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-12": {
+      "clickable": "true",
+      "color": "Black Olive",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            283,
+            108
+         ],
+         "to": [
+            603,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 320
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/url",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "https://www.google.com.sg/webhp?client=android-google&source=android-home&gws_rd=cr&ei=UcRsWZbnG4W50ASaxZagCA",
+      "widget_class": "EditText"
+   },
+   "clipping-13": {
+      "clickable": "true",
+      "color": "Aurometalsaurus",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            27,
+            146
+         ],
+         "to": [
+            722,
+            208
+         ]
+      },
+      "dimensions": {
+         "height": 62,
+         "width": 695
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.ertanto.kompas.official:id/searchNews",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_6",
+      "text": "12",
+      "widget_class": "EditText"
+   },
+   "clipping-14": {
+      "clickable": "true",
+      "color": "Coquelicot",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            11,
+            33
+         ],
+         "to": [
+            86,
+            118
+         ]
+      },
+      "dimensions": {
+         "height": 85,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_259",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-15": {
+      "clickable": "true",
+      "color": "Raisin Black",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            236,
+            48
+         ],
+         "to": [
+            311,
+            108
+         ]
+      },
+      "dimensions": {
+         "height": 60,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/newtab",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_50",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-16": {
+      "clickable": "true",
+      "color": "Jet",
+      "content-desc": "Close tab",
+      "coordinates": {
+         "from": [
+            191,
+            56
+         ],
+         "to": [
+            234,
+            99
+         ]
+      },
+      "dimensions": {
+         "height": 43,
+         "width": 43
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/close",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_50",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-17": {
+      "clickable": "true",
+      "color": "Electric Orange",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            308,
+            51
+         ],
+         "to": [
+            662,
+            99
+         ]
+      },
+      "dimensions": {
+         "height": 48,
+         "width": 354
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/search_src_text",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_112",
+      "text": "   Search",
+      "widget_class": "EditText"
+   },
+   "clipping-18": {
+      "clickable": "true",
+      "color": "Coquelicot",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            117,
+            51
+         ],
+         "to": [
+            521,
+            99
+         ]
+      },
+      "dimensions": {
+         "height": 48,
+         "width": 404
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/search_src_text",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_102",
+      "text": "   Search",
+      "widget_class": "EditText"
+   },
+   "clipping-19": {
+      "clickable": "true",
+      "color": "Electric Orange",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            14,
+            1141
+         ],
+         "to": [
+            789,
+            1205
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 775
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/button_confirm",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_258",
+      "text": "ADD TO BAG",
+      "widget_class": "Button"
+   },
+   "clipping-2": {
+      "clickable": "true",
+      "color": "Light Gray",
+      "content-desc": "Bookmarks",
+      "coordinates": {
+         "from": [
+            735,
+            108
+         ],
+         "to": [
+            800,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/all_btn",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-20": {
+      "clickable": "true",
+      "color": "Sonic Silver",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            21,
+            634
+         ],
+         "to": [
+            779,
+            698
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 758
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/button_confirm",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_124",
+      "text": "SEND",
+      "widget_class": "Button"
+   },
+   "clipping-21": {
+      "clickable": "true",
+      "color": "Electric Orange",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            400,
+            1136
+         ],
+         "to": [
+            800,
+            1216
+         ]
+      },
+      "dimensions": {
+         "height": 80,
+         "width": 400
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_86",
+      "text": "LOOK AROUND",
+      "widget_class": "Button"
+   },
+   "clipping-22": {
+      "clickable": "true",
+      "color": "Indigo (Crayola)",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            21,
+            1066
+         ],
+         "to": [
+            779,
+            1119
+         ]
+      },
+      "dimensions": {
+         "height": 53,
+         "width": 758
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_86",
+      "text": "CONNECT WITH FACEBOOK",
+      "widget_class": "Button"
+   },
+   "clipping-23": {
+      "clickable": "true",
+      "color": "Blueberry",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            16,
+            1002
+         ],
+         "to": [
+            784,
+            1061
+         ]
+      },
+      "dimensions": {
+         "height": 59,
+         "width": 768
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_86",
+      "text": "CONNECT WITH GOOGLE",
+      "widget_class": "Button"
+   },
+   "clipping-24": {
+      "clickable": "true",
+      "color": "Gainsboro",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            24,
+            259
+         ],
+         "to": [
+            779,
+            306
+         ]
+      },
+      "dimensions": {
+         "height": 47,
+         "width": 755
+      },
+      "focusable": "false",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/spinner_subject",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_71",
+      "text": "",
+      "widget_class": "Spinner"
+   },
+   "clipping-25": {
+      "clickable": "true",
+      "color": "Charleston Green",
+      "content-desc": "Remember me",
+      "coordinates": {
+         "from": [
+            19,
+            556
+         ],
+         "to": [
+            170,
+            580
+         ]
+      },
+      "dimensions": {
+         "height": 24,
+         "width": 151
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_123",
+      "text": "",
+      "widget_class": "CheckBox"
+   },
+   "clipping-26": {
+      "clickable": "true",
+      "color": "Dark Charcoal",
+      "content-desc": "Interstitial close button",
+      "coordinates": {
+         "from": [
+            0,
+            0
+         ],
+         "to": [
+            66,
+            66
+         ]
+      },
+      "dimensions": {
+         "height": 66,
+         "width": 66
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_115",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-27": {
+      "clickable": "true",
+      "color": "Silver Sand",
+      "content-desc": "test121212121212te1212121212testtest1212testtesttest12testtest12testtesttest12testtest1212test12test121212121212testtesttesttest12121212test12test12test1212test12testtest12testtesttest1212121212testtesttest1212test1212testtest1212test121212test1212test1212testtest12testtest1212121212testtest12test1212test1212testtest1212test12testtesttest12test1212testtest1212testtest1212testtest12testtesttest12testtest12121212testtesttesttest1212testtest1212121212testtesttest1212test12test12test12testtesttest121212test1212test12121212testtesttesttest12test12test12test12test12testtest1212testtesttest12test1212testtest12testtest1212121212testtesttesttesttesttest12test121212121212testtest121212test1212test1212testtest1212testtest121212testtest1212testtest1212121212test1212121212test1212121212test1212testtest12test1212test12test12121212test121212testtest12testtesttesttesttesttesttesttest121212testtesttest12test12testtesttesttest1212testtest1212test121212test1212testtesttesttest12121212test12testtest12testtesttest121212121212test1212test121212test12test12test1212test12testtesttest12testtesttest12testtest1212testtest12test121212test12test121212test12testtest1212121212test121212test1212test1212testtesttesttest1212testtesttesttest1212test12testtesttesttesttesttest12test121212testtest12121212testtesttest1212test1212testtesttesttest1212121212testtesttesttesttesttesttesttesttest1212testtesttest12testtest12test1212test12121212test12test12testtesttesttesttest12testtest1212testtesttesttesttest12testtest121212test1212test12test12test12testtesttesttesttesttest12test12test12testtest1212test12test12testtest1212test12test12testtest121212121212test12test12testtest1212121212test1212test1212testtest12testtesttest12test1212test12testtesttest121212testtest12test1212testtest1212testtest121212test12testtest1212testtesttest12test12testtesttesttesttesttest12test12test121212test1212testtesttest121212testtest12testtesttesttest12test1212testtesttesttesttest12testtest121212testtesttest1212testtesttest1212121212testtest12test121212test1212testtesttesttesttest12test12testtest1212test12test12testtesttest12test12test121212test12testtest12testtesttesttest12testtest121212testtesttest12test12testtesttesttest12121212testtesttesttesttest121212testtest12test1212testtesttesttest12test121212testtest1212test1212test12test12test12testtesttest12testtesttesttest121212121212test12test1212test121212test12testtesttest1212testtesttesttesttesttest12test12testtest12testtest1212test1212testtest12test12121212testtesttesttesttesttesttesttest12testtesttest1212testtest12test1212test12testtesttest12test1212testtest1212121212testtesttest12test12test12testtest1212121212testtesttesttesttest121212test121212testtesttest121212test12test12testtest12test121212test12testtesttest121212testtest12test121212test12test12testtesttesttesttest1212test12test1212test12test12test121212test1212test12121212test1212test1212test1212test12test1212test12test121212121212test12testtesttest1212testtesttest121212test12testtesttesttest1212test1212test12testtesttest12121212test121212test1212testtesttest12test1212121212test1212testtesttesttest12test12121212test1212121212test12testtesttesttesttesttesttest12test12testtest12testtesttest1212testtest1212test1212testtesttesttest12test121212testtest121212testtest12test1212testtesttest12test12121212testtesttesttesttest1212test121212test12testtesttesttesttesttesttesttest1212121212testtest121212121212121212test12test1212testtesttesttesttesttest1212testtest12121212test1212test12121212testtesttesttest12testtest1212test12121212testtesttesttest12testtesttesttesttesttesttest12test12test121212121212test1212test1212121212test1212test1212testtest12testtest12test12test12testtest1212testtesttesttest12121212testtesttesttest12test12121212test1212test1212testtesttest12test12testtest1212121212testtesttest121212testtest12test12test12testtesttesttesttesttesttest121212test12testtesttesttest12testtest12test12121212testtest12test12testtest1212121212test121212121212test121212test12testtest12test12121212121212test121212121212testtesttesttest12testtesttest12test12testtest12testtest12test12test121212testtest12test121212test12testtesttest121212testtest121212testtest1212test12121212testtesttest12testtest1212test121212testtest1212test1212test12test121212test1212testtest12testtesttesttesttest12testtest12121212test12121212test1212testtest12test12test12testtesttest12121212test12test121212test121212testtest12121212test1212testtesttesttesttest12testtest1212testtesttest12testtesttesttesttesttest12testtest1212testtest1212testtesttest1212test12testtesttest12testtesttesttest1212testtest1212testtesttesttest12test12test12test121212testtesttesttesttest12test121212test121212test1212testtesttesttesttest1212test1212121212test12121212test121212test121212test12testtest12testtest12testtest12test12testtesttesttest12121212testtest12test12testtest12test12test12test12121212testtesttesttest1212testtest12testtesttest12testtest12test12testtesttest12testtesttesttest1212test121212testtesttesttest12test1212test1212test12test1212testtest12testtest12testtesttesttest12testtest12testtesttest12testtesttesttesttest1212testtest12test12testtest1212test12test12test1212testtest12121212test121212test12test12test12test12test1212test1212test12test12121212testtesttesttesttesttesttesttest12test1212testtest12testtest1212test12test12121212121212testtest12testtest1212testtesttest1212test12testtesttesttest1212testtesttesttest12121212test1212test12testtesttesttest12st",
+      "coordinates": {
+         "from": [
+            191,
+            149
+         ],
+         "to": [
+            424,
+            176
+         ]
+      },
+      "dimensions": {
+         "height": 27,
+         "width": 233
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "EditText"
+   },
+   "clipping-28": {
+      "clickable": "false",
+      "color": "Timberwolf",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            218,
+            633
+         ],
+         "to": [
+            584,
+            692
+         ]
+      },
+      "dimensions": {
+         "height": 59,
+         "width": 366
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_166",
+      "text": "",
+      "widget_class": "EditText"
+   },
+   "clipping-29": {
+      "clickable": "true",
+      "color": "Red (Pigment)",
+      "content-desc": "Password",
+      "coordinates": {
+         "from": [
+            166,
+            408
+         ],
+         "to": [
+            636,
+            452
+         ]
+      },
+      "dimensions": {
+         "height": 44,
+         "width": 470
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_42",
+      "text": "",
+      "widget_class": "EditText"
+   },
+   "clipping-3": {
+      "clickable": "true",
+      "color": "Dark Liver",
+      "content-desc": "Search",
+      "coordinates": {
+         "from": [
+            670,
+            108
+         ],
+         "to": [
+            735,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/search",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-30": {
+      "clickable": "true",
+      "color": "Green-Blue",
+      "content-desc": "Email, phone, or Skype",
+      "coordinates": {
+         "from": [
+            166,
+            360
+         ],
+         "to": [
+            636,
+            404
+         ]
+      },
+      "dimensions": {
+         "height": 44,
+         "width": 470
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_38",
+      "text": "",
+      "widget_class": "EditText"
+   },
+   "clipping-31": {
+      "clickable": "true",
+      "color": "Lanzones",
+      "content-desc": "Sign in securely",
+      "coordinates": {
+         "from": [
+            11,
+            618
+         ],
+         "to": [
+            163,
+            655
+         ]
+      },
+      "dimensions": {
+         "height": 37,
+         "width": 152
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-32": {
+      "clickable": "true",
+      "color": "Umber",
+      "content-desc": "Go",
+      "coordinates": {
+         "from": [
+            424,
+            148
+         ],
+         "to": [
+            460,
+            176
+         ]
+      },
+      "dimensions": {
+         "height": 28,
+         "width": 36
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-33": {
+      "clickable": "true",
+      "color": "Vampire Black",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            734,
+            39
+         ],
+         "to": [
+            787,
+            90
+         ]
+      },
+      "dimensions": {
+         "height": 51,
+         "width": 53
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.amar.socialmedianetwork:id/btn_back",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-34": {
+      "clickable": "true",
+      "color": "Steel Blue",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            747,
+            44
+         ],
+         "to": [
+            787,
+            84
+         ]
+      },
+      "dimensions": {
+         "height": 40,
+         "width": 40
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.amar.socialmedianetwork:id/btn_menu",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_170",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-35": {
+      "clickable": "true",
+      "color": "Blueberry",
+      "content-desc": "\u0414\u0430\u043b\u0435\u0435",
+      "coordinates": {
+         "from": [
+            218,
+            764
+         ],
+         "to": [
+            584,
+            812
+         ]
+      },
+      "dimensions": {
+         "height": 48,
+         "width": 366
+      },
+      "focusable": "false",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_166",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-36": {
+      "clickable": "true",
+      "color": "Blueberry",
+      "content-desc": "\u0414\u0430\u043b\u0435\u0435",
+      "coordinates": {
+         "from": [
+            218,
+            701
+         ],
+         "to": [
+            584,
+            750
+         ]
+      },
+      "dimensions": {
+         "height": 49,
+         "width": 366
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_165",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-37": {
+      "clickable": "true",
+      "color": "Neon Silver",
+      "content-desc": "\u202aBahasa Melayu\u202c",
+      "coordinates": {
+         "from": [
+            507,
+            1179
+         ],
+         "to": [
+            740,
+            1211
+         ]
+      },
+      "dimensions": {
+         "height": 32,
+         "width": 233
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_154",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-38": {
+      "clickable": "true",
+      "color": "Blue Cola",
+      "content-desc": "Sign in",
+      "coordinates": {
+         "from": [
+            19,
+            601
+         ],
+         "to": [
+            780,
+            668
+         ]
+      },
+      "dimensions": {
+         "height": 67,
+         "width": 761
+      },
+      "focusable": "false",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_123",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-39": {
+      "clickable": "true",
+      "color": "Blueberry",
+      "content-desc": "Sign in with Google",
+      "coordinates": {
+         "from": [
+            19,
+            215
+         ],
+         "to": [
+            780,
+            282
+         ]
+      },
+      "dimensions": {
+         "height": 67,
+         "width": 761
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_123",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-4": {
+      "clickable": "true",
+      "color": "Outer Space",
+      "content-desc": "Bookmark page",
+      "coordinates": {
+         "from": [
+            603,
+            108
+         ],
+         "to": [
+            668,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/star",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-40": {
+      "clickable": "true",
+      "color": "Blueberry",
+      "content-desc": "Google Search",
+      "coordinates": {
+         "from": [
+            738,
+            549
+         ],
+         "to": [
+            789,
+            603
+         ]
+      },
+      "dimensions": {
+         "height": 54,
+         "width": 51
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_95",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-41": {
+      "clickable": "true",
+      "color": "Spanish Gray",
+      "content-desc": "Google apps",
+      "coordinates": {
+         "from": [
+            644,
+            107
+         ],
+         "to": [
+            684,
+            147
+         ]
+      },
+      "dimensions": {
+         "height": 40,
+         "width": 40
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_95",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-42": {
+      "clickable": "true",
+      "color": "White Smoke",
+      "content-desc": "Preferences",
+      "coordinates": {
+         "from": [
+            746,
+            125
+         ],
+         "to": [
+            773,
+            143
+         ]
+      },
+      "dimensions": {
+         "height": 18,
+         "width": 27
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_92",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-43": {
+      "clickable": "true",
+      "color": "American Blue",
+      "content-desc": "Info",
+      "coordinates": {
+         "from": [
+            639,
+            1106
+         ],
+         "to": [
+            746,
+            1159
+         ]
+      },
+      "dimensions": {
+         "height": 53,
+         "width": 107
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_85",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-44": {
+      "clickable": "true",
+      "color": "American Blue",
+      "content-desc": "Next image",
+      "coordinates": {
+         "from": [
+            584,
+            1106
+         ],
+         "to": [
+            639,
+            1159
+         ]
+      },
+      "dimensions": {
+         "height": 53,
+         "width": 55
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_85",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-45": {
+      "clickable": "true",
+      "color": "Columbia Blue",
+      "content-desc": "Submit",
+      "coordinates": {
+         "from": [
+            637,
+            319
+         ],
+         "to": [
+            697,
+            380
+         ]
+      },
+      "dimensions": {
+         "height": 61,
+         "width": 60
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_83",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-46": {
+      "clickable": "true",
+      "color": "Green-Blue",
+      "content-desc": "Sign in",
+      "coordinates": {
+         "from": [
+            403,
+            525
+         ],
+         "to": [
+            636,
+            569
+         ]
+      },
+      "dimensions": {
+         "height": 44,
+         "width": 233
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_42",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-47": {
+      "clickable": "true",
+      "color": "Neon Silver",
+      "content-desc": "Back",
+      "coordinates": {
+         "from": [
+            166,
+            525
+         ],
+         "to": [
+            399,
+            569
+         ]
+      },
+      "dimensions": {
+         "height": 44,
+         "width": 233
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_42",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-48": {
+      "clickable": "true",
+      "color": "Picton Blue",
+      "content-desc": "Next",
+      "coordinates": {
+         "from": [
+            201,
+            390
+         ],
+         "to": [
+            601,
+            446
+         ]
+      },
+      "dimensions": {
+         "height": 56,
+         "width": 400
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_35",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-49": {
+      "clickable": "true",
+      "color": "Lavender Mist",
+      "content-desc": "NO THANKS",
+      "coordinates": {
+         "from": [
+            488,
+            1141
+         ],
+         "to": [
+            616,
+            1188
+         ]
+      },
+      "dimensions": {
+         "height": 47,
+         "width": 128
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_23",
+      "text": "",
+      "widget_class": "Button"
+   },
+   "clipping-5": {
+      "clickable": "true",
+      "color": "Old Silver",
+      "content-desc": "More options",
+      "coordinates": {
+         "from": [
+            715,
+            33
+         ],
+         "to": [
+            800,
+            108
+         ]
+      },
+      "dimensions": {
+         "height": 75,
+         "width": 85
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-50": {
+      "clickable": "false",
+      "color": "Philippine Gray",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            166,
+            395
+         ],
+         "to": [
+            632,
+            404
+         ]
+      },
+      "dimensions": {
+         "height": 9,
+         "width": 466
+      },
+      "focusable": "false",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_40",
+      "text": "",
+      "widget_class": "ProgressBar"
+   },
+   "clipping-51": {
+      "clickable": "true",
+      "color": "Gunmetal",
+      "content-desc": "Help Link",
+      "coordinates": {
+         "from": [
+            631,
+            1128
+         ],
+         "to": [
+            652,
+            1142
+         ]
+      },
+      "dimensions": {
+         "height": 14,
+         "width": 21
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-52": {
+      "clickable": "true",
+      "color": "Gunmetal",
+      "content-desc": "Amazon Assistant Link",
+      "coordinates": {
+         "from": [
+            631,
+            1108
+         ],
+         "to": [
+            716,
+            1122
+         ]
+      },
+      "dimensions": {
+         "height": 14,
+         "width": 85
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-53": {
+      "clickable": "true",
+      "color": "Charcoal",
+      "content-desc": "Back to top Link",
+      "coordinates": {
+         "from": [
+            0,
+            890
+         ],
+         "to": [
+            800,
+            929
+         ]
+      },
+      "dimensions": {
+         "height": 39,
+         "width": 800
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-54": {
+      "clickable": "true",
+      "color": "Platinum",
+      "content-desc": "Sport-Brella Portable All-Weather and Sun Umbrella. 8-Foot Canopy. Red. Link",
+      "coordinates": {
+         "from": [
+            685,
+            740
+         ],
+         "to": [
+            777,
+            828
+         ]
+      },
+      "dimensions": {
+         "height": 88,
+         "width": 92
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-55": {
+      "clickable": "true",
+      "color": "Green-Blue (Crayola)",
+      "content-desc": "Shop women's dresses Link",
+      "coordinates": {
+         "from": [
+            384,
+            809
+         ],
+         "to": [
+            538,
+            827
+         ]
+      },
+      "dimensions": {
+         "height": 18,
+         "width": 154
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-56": {
+      "clickable": "true",
+      "color": "Isabelline",
+      "content-desc": "Shop women's dresses Link",
+      "coordinates": {
+         "from": [
+            353,
+            518
+         ],
+         "to": [
+            570,
+            800
+         ]
+      },
+      "dimensions": {
+         "height": 282,
+         "width": 217
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-57": {
+      "clickable": "true",
+      "color": "Light Gray",
+      "content-desc": "Computer Link",
+      "coordinates": {
+         "from": [
+            285,
+            658
+         ],
+         "to": [
+            345,
+            717
+         ]
+      },
+      "dimensions": {
+         "height": 59,
+         "width": 60
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-58": {
+      "clickable": "true",
+      "color": "Jet",
+      "content-desc": "Pets Link",
+      "coordinates": {
+         "from": [
+            206,
+            658
+         ],
+         "to": [
+            265,
+            717
+         ]
+      },
+      "dimensions": {
+         "height": 59,
+         "width": 59
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-59": {
+      "clickable": "true",
+      "color": "Arsenic",
+      "content-desc": "Bluetooth Link",
+      "coordinates": {
+         "from": [
+            285,
+            556
+         ],
+         "to": [
+            345,
+            616
+         ]
+      },
+      "dimensions": {
+         "height": 60,
+         "width": 60
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-6": {
+      "clickable": "true",
+      "color": "Eerie Black",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            604,
+            48
+         ],
+         "to": [
+            679,
+            108
+         ]
+      },
+      "dimensions": {
+         "height": 60,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/newtab",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-60": {
+      "clickable": "true",
+      "color": "Silver",
+      "content-desc": "Home Link",
+      "coordinates": {
+         "from": [
+            206,
+            556
+         ],
+         "to": [
+            265,
+            616
+         ]
+      },
+      "dimensions": {
+         "height": 60,
+         "width": 59
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-61": {
+      "clickable": "true",
+      "color": "Anti-Flash White",
+      "content-desc": "WelcomeSign in for the best experience",
+      "coordinates": {
+         "from": [
+            10,
+            511
+         ],
+         "to": [
+            164,
+            594
+         ]
+      },
+      "dimensions": {
+         "height": 83,
+         "width": 154
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-62": {
+      "clickable": "true",
+      "color": "Dark Sky Blue",
+      "content-desc": "Next page Link",
+      "coordinates": {
+         "from": [
+            0,
+            219
+         ],
+         "to": [
+            800,
+            459
+         ]
+      },
+      "dimensions": {
+         "height": 240,
+         "width": 800
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-63": {
+      "clickable": "true",
+      "color": "Cyan Cornflower Blue",
+      "content-desc": "Today's Deals Link",
+      "coordinates": {
+         "from": [
+            247,
+            198
+         ],
+         "to": [
+            327,
+            212
+         ]
+      },
+      "dimensions": {
+         "height": 14,
+         "width": 80
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-64": {
+      "clickable": "true",
+      "color": "Quick Silver",
+      "content-desc": "Your Amazon.com Link",
+      "coordinates": {
+         "from": [
+            153,
+            198
+         ],
+         "to": [
+            247,
+            212
+         ]
+      },
+      "dimensions": {
+         "height": 14,
+         "width": 94
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-65": {
+      "clickable": "true",
+      "color": "Yankees Blue",
+      "content-desc": "Cart0 Link",
+      "coordinates": {
+         "from": [
+            716,
+            182
+         ],
+         "to": [
+            794,
+            217
+         ]
+      },
+      "dimensions": {
+         "height": 35,
+         "width": 78
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-66": {
+      "clickable": "true",
+      "color": "Charcoal",
+      "content-desc": "Try Prime Link",
+      "coordinates": {
+         "from": [
+            74,
+            163
+         ],
+         "to": [
+            113,
+            174
+         ]
+      },
+      "dimensions": {
+         "height": 11,
+         "width": 39
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_1996",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-67": {
+      "clickable": "true",
+      "color": "Platinum",
+      "content-desc": "\u0421\u043f\u0440\u0430\u0432\u043a\u0430 Link",
+      "coordinates": {
+         "from": [
+            499,
+            1184
+         ],
+         "to": [
+            559,
+            1204
+         ]
+      },
+      "dimensions": {
+         "height": 20,
+         "width": 60
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_166",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-68": {
+      "clickable": "true",
+      "color": "Azureish White",
+      "content-desc": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0430\u043a\u043a\u0430\u0443\u043d\u0442 Link",
+      "coordinates": {
+         "from": [
+            324,
+            938
+         ],
+         "to": [
+            475,
+            962
+         ]
+      },
+      "dimensions": {
+         "height": 24,
+         "width": 151
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_166",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-69": {
+      "clickable": "true",
+      "color": "Cornflower Blue",
+      "content-desc": "\u041d\u0430\u0439\u0442\u0438 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 Link",
+      "coordinates": {
+         "from": [
+            463,
+            825
+         ],
+         "to": [
+            584,
+            848
+         ]
+      },
+      "dimensions": {
+         "height": 23,
+         "width": 121
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_166",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-7": {
+      "clickable": "true",
+      "color": "Arsenic",
+      "content-desc": "Close tab",
+      "coordinates": {
+         "from": [
+            559,
+            56
+         ],
+         "to": [
+            602,
+            99
+         ]
+      },
+      "dimensions": {
+         "height": 43,
+         "width": 43
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/close",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_413",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-70": {
+      "clickable": "true",
+      "color": "Carolina Blue",
+      "content-desc": "create an account Link",
+      "coordinates": {
+         "from": [
+            335,
+            737
+         ],
+         "to": [
+            485,
+            761
+         ]
+      },
+      "dimensions": {
+         "height": 24,
+         "width": 150
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_123",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-71": {
+      "clickable": "true",
+      "color": "Mint Cream",
+      "content-desc": "Forgot your password? Link",
+      "coordinates": {
+         "from": [
+            19,
+            692
+         ],
+         "to": [
+            780,
+            716
+         ]
+      },
+      "dimensions": {
+         "height": 24,
+         "width": 761
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_123",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-72": {
+      "clickable": "true",
+      "color": "Light Red",
+      "content-desc": "Link",
+      "coordinates": {
+         "from": [
+            5,
+            96
+         ],
+         "to": [
+            55,
+            159
+         ]
+      },
+      "dimensions": {
+         "height": 63,
+         "width": 50
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_106",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-73": {
+      "clickable": "true",
+      "color": "Lemon Glacier",
+      "content-desc": "Download Snapchat Link",
+      "coordinates": {
+         "from": [
+            0,
+            238
+         ],
+         "to": [
+            800,
+            1196
+         ]
+      },
+      "dimensions": {
+         "height": 958,
+         "width": 800
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_99",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-74": {
+      "clickable": "true",
+      "color": "Light Silver",
+      "content-desc": "Sign in Link",
+      "coordinates": {
+         "from": [
+            696,
+            107
+         ],
+         "to": [
+            784,
+            147
+         ]
+      },
+      "dimensions": {
+         "height": 40,
+         "width": 88
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_95",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-75": {
+      "clickable": "true",
+      "color": "Philippine Gray",
+      "content-desc": "IMAGES Link",
+      "coordinates": {
+         "from": [
+            81,
+            96
+         ],
+         "to": [
+            162,
+            159
+         ]
+      },
+      "dimensions": {
+         "height": 63,
+         "width": 81
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_95",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-76": {
+      "clickable": "true",
+      "color": "Granite Gray",
+      "content-desc": "Link",
+      "coordinates": {
+         "from": [
+            21,
+            111
+         ],
+         "to": [
+            47,
+            149
+         ]
+      },
+      "dimensions": {
+         "height": 38,
+         "width": 26
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_92",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-77": {
+      "clickable": "true",
+      "color": "Granite Gray",
+      "content-desc": "Back to Bing search Link",
+      "coordinates": {
+         "from": [
+            19,
+            114
+         ],
+         "to": [
+            57,
+            162
+         ]
+      },
+      "dimensions": {
+         "height": 48,
+         "width": 38
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_91",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-78": {
+      "clickable": "true",
+      "color": "Lavender Gray",
+      "content-desc": "Legal Link",
+      "coordinates": {
+         "from": [
+            657,
+            1182
+         ],
+         "to": [
+            696,
+            1200
+         ]
+      },
+      "dimensions": {
+         "height": 18,
+         "width": 39
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_85",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-79": {
+      "clickable": "true",
+      "color": "Purple Navy",
+      "content-desc": "Privacy and Cookies Link",
+      "coordinates": {
+         "from": [
+            500,
+            1182
+         ],
+         "to": [
+            636,
+            1200
+         ]
+      },
+      "dimensions": {
+         "height": 18,
+         "width": 136
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_85",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-8": {
+      "clickable": "true",
+      "color": "Gray (X11 Gray)",
+      "content-desc": "Refresh page",
+      "coordinates": {
+         "from": [
+            130,
+            108
+         ],
+         "to": [
+            195,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/stop",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_317",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-80": {
+      "clickable": "true",
+      "color": "Platinum",
+      "content-desc": "Sign Up With Email Link",
+      "coordinates": {
+         "from": [
+            352,
+            697
+         ],
+         "to": [
+            523,
+            724
+         ]
+      },
+      "dimensions": {
+         "height": 27,
+         "width": 171
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_79",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-81": {
+      "clickable": "true",
+      "color": "Cyan-Blue Azure",
+      "content-desc": "Continue with Facebook Link",
+      "coordinates": {
+         "from": [
+            201,
+            609
+         ],
+         "to": [
+            601,
+            679
+         ]
+      },
+      "dimensions": {
+         "height": 70,
+         "width": 400
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_79",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-82": {
+      "clickable": "true",
+      "color": "Vermilion",
+      "content-desc": "Continue with Google Link",
+      "coordinates": {
+         "from": [
+            201,
+            528
+         ],
+         "to": [
+            601,
+            597
+         ]
+      },
+      "dimensions": {
+         "height": 69,
+         "width": 400
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_79",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-83": {
+      "clickable": "true",
+      "color": "B'Dazzled Blue",
+      "content-desc": " Facebook ile devam et  Link",
+      "coordinates": {
+         "from": [
+            115,
+            270
+         ],
+         "to": [
+            686,
+            326
+         ]
+      },
+      "dimensions": {
+         "height": 56,
+         "width": 571
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_72",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-84": {
+      "clickable": "true",
+      "color": "Bubble Gum",
+      "content-desc": "Link",
+      "coordinates": {
+         "from": [
+            42,
+            99
+         ],
+         "to": [
+            109,
+            163
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 67
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_72",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-85": {
+      "clickable": "true",
+      "color": "Bubble Gum",
+      "content-desc": "Create a Meetup Link",
+      "coordinates": {
+         "from": [
+            21,
+            130
+         ],
+         "to": [
+            191,
+            161
+         ]
+      },
+      "dimensions": {
+         "height": 31,
+         "width": 170
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_69",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-86": {
+      "clickable": "true",
+      "color": "Platinum",
+      "content-desc": "More Google apps Link",
+      "coordinates": {
+         "from": [
+            376,
+            161
+         ],
+         "to": [
+            800,
+            174
+         ]
+      },
+      "dimensions": {
+         "height": 13,
+         "width": 424
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_56",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-87": {
+      "clickable": "true",
+      "color": "Azureish White",
+      "content-desc": "Forgot my password Link",
+      "coordinates": {
+         "from": [
+            319,
+            591
+         ],
+         "to": [
+            480,
+            615
+         ]
+      },
+      "dimensions": {
+         "height": 24,
+         "width": 161
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_42",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-88": {
+      "clickable": "true",
+      "color": "Water",
+      "content-desc": "Sign\u00a0up Link",
+      "coordinates": {
+         "from": [
+            467,
+            1150
+         ],
+         "to": [
+            531,
+            1174
+         ]
+      },
+      "dimensions": {
+         "height": 24,
+         "width": 64
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_35",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-89": {
+      "clickable": "true",
+      "color": "Dark Liver",
+      "content-desc": "\u202aEnglish (United States)\u202c",
+      "coordinates": {
+         "from": [
+            79,
+            1010
+         ],
+         "to": [
+            295,
+            1053
+         ]
+      },
+      "dimensions": {
+         "height": 43,
+         "width": 216
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.amar.socialmedianetwork_27-output/stoat_fsm_output/ui\\S_21",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-9": {
+      "clickable": "true",
+      "color": "Onyx",
+      "content-desc": "Go forward",
+      "coordinates": {
+         "from": [
+            65,
+            108
+         ],
+         "to": [
+            130,
+            172
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 65
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.browser:id/forward",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned\\com.ertanto.kompas.official_50300-output/stoat_fsm_output/ui\\S_317",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-90": {
+      "clickable": "true",
+      "color": "Black Bean",
+      "content-desc": "Navigate up",
+      "coordinates": {
+         "from": [
+            11,
+            33
+         ],
+         "to": [
+            86,
+            118
+         ]
+      },
+      "dimensions": {
+         "height": 85,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_1103",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-91": {
+      "clickable": "true",
+      "color": "Old Silver",
+      "content-desc": "More options",
+      "coordinates": {
+         "from": [
+            725,
+            1136
+         ],
+         "to": [
+            800,
+            1216
+         ]
+      },
+      "dimensions": {
+         "height": 80,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "com.android.dialer:id/overflow_menu",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_310",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-92": {
+      "clickable": "false",
+      "color": "Dark Jungle Green",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            368,
+            592
+         ],
+         "to": [
+            432,
+            656
+         ]
+      },
+      "dimensions": {
+         "height": 64,
+         "width": 64
+      },
+      "focusable": "false",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/progressBar",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_567",
+      "text": "",
+      "widget_class": "ProgressBar"
+   },
+   "clipping-93": {
+      "clickable": "false",
+      "color": "Melon",
+      "content-desc": "",
+      "coordinates": {
+         "from": [
+            0,
+            114
+         ],
+         "to": [
+            800,
+            118
+         ]
+      },
+      "dimensions": {
+         "height": 4,
+         "width": 800
+      },
+      "focusable": "false",
+      "leaf": true,
+      "rid": "com.jackthreads.android:id/progressBarTop",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_323",
+      "text": "",
+      "widget_class": "ProgressBar"
+   },
+   "clipping-94": {
+      "clickable": "true",
+      "color": "Jet",
+      "content-desc": "Visit Site Link",
+      "coordinates": {
+         "from": [
+            502,
+            574
+         ],
+         "to": [
+            550,
+            622
+         ]
+      },
+      "dimensions": {
+         "height": 48,
+         "width": 48
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.jackthreads.android_173-output/stoat_fsm_output/ui\\S_910",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-95": {
+      "clickable": "true",
+      "color": "Vermilion",
+      "content-desc": "Open navigation drawer",
+      "coordinates": {
+         "from": [
+            11,
+            33
+         ],
+         "to": [
+            86,
+            118
+         ]
+      },
+      "dimensions": {
+         "height": 85,
+         "width": 75
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.leprechaun.imagenesconpoemasdeamor_76-output/stoat_fsm_output/ui\\S_73",
+      "text": "",
+      "widget_class": "ImageButton"
+   },
+   "clipping-96": {
+      "clickable": "true",
+      "color": "Rich Black (Fogra39)",
+      "content-desc": "Find Differences 150 levelsNew Puzzle gameFreeInstall Link",
+      "coordinates": {
+         "from": [
+            789,
+            1135
+         ],
+         "to": [
+            800,
+            1216
+         ]
+      },
+      "dimensions": {
+         "height": 81,
+         "width": 11
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.leprechaun.imagenesconpoemasdeamor_76-output/stoat_fsm_output/ui\\S_22",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-97": {
+      "clickable": "true",
+      "color": "Gainsboro",
+      "content-desc": "SMS TrackerRemotely Read text, picture messages and phone call logs on your child's phoneFreeInstall Link",
+      "coordinates": {
+         "from": [
+            789,
+            368
+         ],
+         "to": [
+            800,
+            485
+         ]
+      },
+      "dimensions": {
+         "height": 117,
+         "width": 11
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.leprechaun.imagenesconpoemasdeamor_76-output/stoat_fsm_output/ui\\S_22",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-98": {
+      "clickable": "true",
+      "color": "Honeydew",
+      "content-desc": "Send Money to MexicoShare BillMo with your friends and earn a $25 promotional credit.FreeInstall Link",
+      "coordinates": {
+         "from": [
+            0,
+            240
+         ],
+         "to": [
+            10,
+            357
+         ]
+      },
+      "dimensions": {
+         "height": 117,
+         "width": 10
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.leprechaun.imagenesconpoemasdeamor_76-output/stoat_fsm_output/ui\\S_22",
+      "text": "",
+      "widget_class": "View"
+   },
+   "clipping-99": {
+      "clickable": "true",
+      "color": "Nyanza",
+      "content-desc": "Link",
+      "coordinates": {
+         "from": [
+            749,
+            48
+         ],
+         "to": [
+            784,
+            83
+         ]
+      },
+      "dimensions": {
+         "height": 35,
+         "width": 35
+      },
+      "focusable": "true",
+      "leaf": true,
+      "rid": "",
+      "src": "new_folder_struct\\top_10000_google_play_20170510_cleaned_outputs_verbose_xml\\com.leprechaun.imagenesconpoemasdeamor_76-output/stoat_fsm_output/ui\\S_22",
+      "text": "",
+      "widget_class": "View"
+   }
+}
